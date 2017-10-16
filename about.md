@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+Junior Front-end Developer , M.S. Architecture
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Studying at University of Tokyo. Desperately in need of a cat.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[silviaclaire@gmail.com](mailto:silviaclaire@gmail.com)
